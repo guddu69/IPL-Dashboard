@@ -1,0 +1,24 @@
+.seasonPage{
+    display: grid;
+    grid-template-columns: 1fr 7fr;
+}
+
+.seasonTile{
+    padding: 10px;
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+.seasonTile .para{
+    border: 1px solid white;
+    border-radius: 10px;
+    border-width: 2px;
+    margin-top: 10px;
+}
+
+.seasonTile .selected{
+    background-color: bisque;
+}
+.seasonTile .selected a{
+    color: black;
+}

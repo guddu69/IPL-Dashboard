@@ -1,0 +1,15 @@
+.matchPage{
+    text-align: center;
+    line-height: 1.4;
+}
+
+.morePage{
+    text-align: center;
+}
+
+.matchPage .diffLinkCol a{
+    color:tan;
+}
+.morePage .diffLinkCol a{
+    color:tan;
+}

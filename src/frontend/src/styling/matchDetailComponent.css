@@ -1,0 +1,38 @@
+.matchDetailComponent{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 10px;
+}
+
+.matchDetailComponent .leftDetails{
+    text-align: left;
+    padding: 10px;
+}
+
+.matchDetailComponent .rightDetails{
+    text-align: right;
+    padding: 10px;
+}
+
+
+.matchComponent{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 10px;
+    background-color: bisque;
+    color: black;
+}
+
+.matchComponent .leftDetails{
+    text-align: left;
+    padding: 10px;
+}
+
+.matchComponent .rightDetails{
+    text-align: right;
+    padding: 10px;
+}
+
+.matchComponent a{
+    color:cadetblue;
+}

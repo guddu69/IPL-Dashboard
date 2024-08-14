@@ -1,0 +1,17 @@
+.homePage{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    row-gap: 10px;
+}
+
+.homePage .text{
+    font-size: 2rem;
+    text-align: start;
+}
+.homePage .info{
+    color:antiquewhite;
+    font-size: 1rem;
+    text-align: right;
+    margin-right: 170px;
+    margin-top: 0px;
+}
